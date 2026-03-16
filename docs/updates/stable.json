@@ -1,6 +1,15 @@
 {
-  "version": "0.0.0",
-  "notes": "No public release published yet",
-  "pub_date": "1970-01-01T00:00:00Z",
-  "platforms": {}
+  "version": "0.22.0",
+  "notes": "See release notes on GitHub",
+  "pub_date": "2026-03-16T14:13:18.558Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWdJL3NPWEdtdDdjVmNBRUZiS1Y3WEZqemlKN2NlYnp4dnJSUmRCanpmWEZqYmZ1aEtYWVhzb1MwUVMwbmNsQXVFRVB2SU1odE1tc3B6QjcxWmFMVFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjcwMjYwCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpENEsvQ1hwVFZPMUN3UmZLZ2dKcVd6Y1pYcFJZTm13d2EzWDBFUGt4bnlNeXZrdC9iT1JCMTFkRi9WdXBrdnV2SVRDd09HdW40Y1ptTC9ZbTN4eTFEdz09Cg==",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.22.0/AtlasEngine_0.22.0_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW5YdXF2MXRnUTVENHRnd1dQdERJcFlRNWtRY0o0T3ljMTZ1SWtZcEFCRXJPcWh3Y0dwd0tWYkxXV3dUaTZzaFo2cnZqeHc0RU1FT1JkUG1xMnRsVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNjcwMzM5CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpuQzk2eGVRSFlNSjlaZ0tabkhBbng0ZFlIWEtVdkFmcHdxdVRldE9Za29hR3pYdURqeTRyeElGMVZUNWNwMHBwd1F2bHp4bE4veGIybS9HZVVNZFRCdz09Cg==",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.22.0/AtlasEngine_0.22.0_x86_64.app.tar.gz"
+    }
+  }
 }
