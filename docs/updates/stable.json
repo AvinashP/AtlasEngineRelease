@@ -1,19 +1,15 @@
 {
-  "version": "0.22.3",
+  "version": "0.22.4",
   "notes": "See release notes on GitHub",
-  "pub_date": "2026-03-21T14:07:20.228Z",
+  "pub_date": "2026-03-22T06:19:20.514Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXJ6eHpzSnRIZjRHaFE4K3hDclZWM0JlSVBPcjNjZFpndzZlVlYrbjNaZWFZZlRTTS9PaW1la05aT2VsbVFTUkkwN2ZlS2pNeVJkeWtSU09oN2tWL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTAxMjgyCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpJcm4rQjIrWHFZcjJ2ZU96K0tydVJ3RzFtZzNxRVExcHVuVlFmV1lLNnNOSDhvM3ZOMTNmOXQ2TGMwNUdTV1p3S0dzNHpwY2JnZ1pyQ0NVMU1LYU5Ddz09Cg==",
-      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.22.3/AtlasEngine_0.22.3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXVsRFFRbWlhYUhQWDVnL0p2cWM2M1JEYWJOKzc4L05vU0RiWDVTWjBSdDJ4U2NLSGc4akhuVDZTb1U5dTlzK0xYTzRqUVl6RXV5WVYvZUFqVHBvbHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTYwMjYxCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negp4eWFFb2o4TEltWkx1YU1GSFRtR1BXU2tuSTlORDdNVnR1dmJMbmJZNlhwNWcyUXZ1dzNQYVZ1UWhSYkY2UXJGMlNtTE1qZVBpMVdlN3RJRkM4dXBEUT09Cg==",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.22.4/AtlasEngine_0.22.4_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWh5ZzlhdG41NkZHQjdkOTBIOHFVYU5lMGROVHU0OFNkcjR2dHJ3c2RmUkNMTzBjRnNoSFdGVXFOa0p2eXpUcEZvTkorTS8weHpQQnlpejMzUGV2K3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTAxMzM2CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpqOGh1Z1d2WXBRN1pFN1NZS00zSW44OWtXaUlqTy9Bc0VEbWU3YmRFdHhzMlM3SWM4WmJ6N1pDa0w1SnBYZ0YycWZFYTdCZzVzSzhtb2E4bXk0YklEUT09Cg==",
-      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.22.3/AtlasEngine_0.22.3_x86_64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWdyM1BFTjhkUGlzZ1Z5SGJyS0lBMU13OXlOZHZBRXVjY1FjN1F0MGlxZGhxdnRiL2UyNnRwSExqN0srVmFicVdvWTFSRWlEYTQySUVGU0VraWJpY0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTAxODU5CWZpbGU6QXRsYXNFbmdpbmVfMC4yMi4zX3g2NC1zZXR1cC5leGUKWWsxd3NtYVJ2NExFckhCR2o5MGQwb3pPdHM5SE1FenZIRUx4U3VIVDBxK1pzWDF2NVpVbkswVVBidHRsbWovK2gvVWxIN2VhS1llc0FpNnlXSmZEQ3c9PQo=",
-      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.22.3/AtlasEngine-0.22.3-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWk0cHNSczNEWU1rSTZyTGt3TkhPYnN6bTJtdlgzUGpZTTZmWDVrczlhc1Y4alpRUCsxcXRrT3p0UnV0STRkSnkwd0IwR3RTNnE3b0EwMnY4T2ZIdmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MTYwMzE1CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpNUjZlY2o5Umk5MXF2VlVvQ0RObnZqeStsV3dMTldiM2pwYWxqL1NRcnFFb1VURGZuT283aHM3S3J4K3hKZVdzSFB4K2dPS1U0alFrc3NrUU9tQkdDUT09Cg==",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.22.4/AtlasEngine_0.22.4_x86_64.app.tar.gz"
     }
   }
 }
