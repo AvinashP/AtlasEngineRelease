@@ -1,7 +1,7 @@
 {
   "version": "0.23.0",
   "notes": "Admin dashboard, user identity, device registration, review type tracking",
-  "pub_date": "2026-03-30T19:33:06Z",
+  "pub_date": "2026-03-30T19:42:01.128Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWhzeFBxNUk0Wkx2SmNVeDVKTTZYK1hhNHJBcFU2KzhtaHh2ZTRBWURIMzE5eEFBUHdoUmp0YTNvMndqdURnVEZDUFZOa0R6NTRLbHAyRHBMK2xzYkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODk4OTc4CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpjUUs1d0dSTHBoM1pNajlHYU5CWm0vVVRaTUFDdHdlQkRKVWVOZXF0cDNoa2FQdGNGTXR2eDVJWlpvMXprK2NXbGp4OFVQVlo5MWc1UklsS216QWpEZz09Cg==",
@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW9oeVFHQ25FcUJvcDNoMU9sQmJKUndWV0FkSzY0WnhpcGg2MjlVcFNJcW9hQ0xWRFE5NzM3cExubEh5eldXN01KdXlYMVhyVDY2NUtKZWlXZVpMYndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODk5MDk4CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negozUWZwMUVXYmJSZ0g1eWJURkJ2SFpIc2VNSEozbThZS1lCMGdXSGJZS2FhZFE2ZDRSYXhrTkxpZm41QkV1ZGRPSWJxSFY5bGNNdmtvWnV5elJqSENEdz09Cg==",
       "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.0/AtlasEngine_0.23.0_x86_64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWk5aHhodCt4ZUE2QmszaE5NQSthNXN6bDY1SjZzYzJ2SjNYZEdXZk5uMktpZlZaSCtlRU5tcWZnU3ZvOE9ZWFhnZ2dBTVlYLzM2WWlOekFsWUFJRWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODk5NjU4CWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4wX3g2NC1zZXR1cC5leGUKUzdYNG1BRFRQYVFxZVlXdERJSndKS2tudVpTNW1jdzFMdEx5K0dqakJhZnVTNU11NXNoZE5EanR2RzM5cUFud3VMTlNuaFo4c1h0aUtNd0VjVmkrQXc9PQo=",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.0/AtlasEngine-0.23.0-windows-x64-setup.exe"
     }
   }
 }
