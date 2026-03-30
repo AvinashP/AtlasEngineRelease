@@ -1,14 +1,14 @@
 {
   "version": "0.23.0",
   "notes": "Admin dashboard, user identity, device registration, review type tracking",
-  "pub_date": "2026-03-30T18:06:35Z",
+  "pub_date": "2026-03-30T19:33:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXArbTZUNEFnVGdLcm82elhTTmhGR2xUR2twZWtqUjVMYzhqMk5CVmd4NFdCNzEvc0Y2ZERvcUhvN1p4M3VXQ2U0ZHlDYTcyekIrTVBwTFY0VzVOYXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODg1NTgxCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negplZHlBUjlUdE9MaVpua3FqbHFVbmsrME9ISGd3SUxodmRaekZ2SC9sZ3QxL2UvZnRCTXRCZXJFZ1FsU2w1L2tMcmxpMkxGZmZHSXgwcGZIdUgyWFZBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWhzeFBxNUk0Wkx2SmNVeDVKTTZYK1hhNHJBcFU2KzhtaHh2ZTRBWURIMzE5eEFBUHdoUmp0YTNvMndqdURnVEZDUFZOa0R6NTRLbHAyRHBMK2xzYkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODk4OTc4CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpjUUs1d0dSTHBoM1pNajlHYU5CWm0vVVRaTUFDdHdlQkRKVWVOZXF0cDNoa2FQdGNGTXR2eDVJWlpvMXprK2NXbGp4OFVQVlo5MWc1UklsS216QWpEZz09Cg==",
       "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.0/AtlasEngine_0.23.0_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXNRY012Z2o3YzFLUDlnOFo2eUFBZkpGNHoxRzlXYU9yOUQ3TjB2aEpvRlJCUWhpUE8wMWRNd0lNSjd6OWhkSGt4a0F1dC9Fbzk1a0VrbWtuY2FhOVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODkzOTA5CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpUNUwzNUxnUjhpK1lXVDlLTXJhc3FjYzZDRmxzMFVnaGpJWHlvVDZST3lISFkrTUFqUHVkUG1EV0JrcWprMEJuMmNDMjVuT1c0N3J4VmFjQk5OaFVBZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW9oeVFHQ25FcUJvcDNoMU9sQmJKUndWV0FkSzY0WnhpcGg2MjlVcFNJcW9hQ0xWRFE5NzM3cExubEh5eldXN01KdXlYMVhyVDY2NUtKZWlXZVpMYndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODk5MDk4CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negozUWZwMUVXYmJSZ0g1eWJURkJ2SFpIc2VNSEozbThZS1lCMGdXSGJZS2FhZFE2ZDRSYXhrTkxpZm41QkV1ZGRPSWJxSFY5bGNNdmtvWnV5elJqSENEdz09Cg==",
       "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.0/AtlasEngine_0.23.0_x86_64.app.tar.gz"
     }
   }
