@@ -1,7 +1,7 @@
 {
   "version": "0.23.1",
   "notes": "Mobile-friendly admin dashboard, mouseup focus fix, review analytics improvements",
-  "pub_date": "2026-04-01T19:19:08Z",
+  "pub_date": "2026-04-01T19:25:15.5695293Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXF5YTFzZ3FGY2ZnV1ZrRFdXczljQ3F2S0NPVDNmMzV2RmFjN0xLOUtJTkNYTFFVeFBYeWZMcUV1RXljanJCV3FiVUJZTi9UdzdQcEx5ZFp5Smo3S0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDcwNzczCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpIUFRTaEFiMmF6WktzRmplTTJ4Vy9veURoWnFIS0Nlem1DWXo0alRzb3VoQ3BidFZ2TDVXaUNnditZb01iSjlocHl2ZG9raXg3enNoT2M5bjNXdkNEdz09Cg==",
@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW9JQXA4YXpjWXJDN21RWFdON3BUSk13RUV6aXk2YWpoTUlPMDZwM2wvNHdIcHJRWUtFN3FONytBZFJnb2hpTzM1WHZVNHNSTlZrc0k2aGJzTFBIa1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDcwODg3CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpHUHBxem1xU2tPbi82L1AyMnRLNTNOVTVqSitZNy9vRlhYeFI1V05lak16eGlpY2VQTkVSKzVUNjhDUmJ5Nlp1MTZ4Ykh3YndEQWpmSnVWdzRLY0JEUT09Cg==",
       "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.1/AtlasEngine_0.23.1_x86_64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXBlSGpqZFFFbjllWGZrMjVSUFFsenRMZnorY1dOeWc1aCsyUFN4TDVsaHVqS2N6eTRSYjFCMzRZZEQwZko0Uk1QQ0oxdnhkTmlXQmgzazE4N2llSndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDcxMTAyCWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4xX3g2NC1zZXR1cC5leGUKNmYxS1VaK2l2QzhGTS9zRUlSNzlud1VKMmJjcDlrb0x0N2JSb0lKT0NRNGZIV0hYQWZMaDFuM0p3VHJzUVVmNnNOdFlIL3VySlZxeGFuY0QxMlBBQmc9PQo=",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.1/AtlasEngine-0.23.1-windows-x64-setup.exe"
     }
   }
 }
