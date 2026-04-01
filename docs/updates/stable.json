@@ -1,7 +1,7 @@
 {
   "version": "0.23.1",
   "notes": "Fix global mouseup handler clearing input focus across modals. Review analytics improvements.",
-  "pub_date": "2026-04-01T08:23:45Z",
+  "pub_date": "2026-04-01T08:49:35.565Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXZpN3pKMXEwQzA2NExLTnhQUDlYYjJSejVJbTk0MnI1ZXEvQ1dveW5lblgwVzhjdVVwMVJnMWpGaXZ5R1hsZGhUK3dUSjA1cnIyVkp4SlZ5anhiSFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDMxNjM1CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpmZjJlQjVMK3g4enAzT0VFd1U4eFJ6dDllYVMxNjFmQWVKclJHY09BRVBDMmFvZEZqT0tmQ0RjbTloU3A0Y3hCOGVyZ2tDTVgzYnVrd0hFb0RKSHNEUT09Cg==",
@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXYyaXNhZEtKbytSUHpMbWoyaG5hOWVGaElRNUpIQmFhZkIzem4ra0hNZVRKRDRYWktqYWl0UXM2QVVqejdtQVZGeXNZTUpHbWVrUkFvM2tKbGVVQXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDMxNzc5CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpLNGUxdWY3V1grMmt1emFZNkU5RmtVTDJhL2RlaEV2U1g2alUvSTRyNUVhWjMxMFN0MDU0UVBnRGlaQzBYcVlXUlNuNDRBdDhMMkkrRXl3Z2g5R2FEZz09Cg==",
       "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.1/AtlasEngine_0.23.1_x86_64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWdvMExnYUVPN3JmdHVMMHJqMXBxUkV0N3FHT0VzaHd3YkE1aWlDcy9kZkY2VnYyVmlDQTNsR2kwQWVOdmtnZ1YrckhIQVJOUTJ6a2pxM0ZpbVFXeHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDMyODk5CWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4xX3g2NC1zZXR1cC5leGUKQ3A4NWdWTmVjbC9MdlIxbWxiT0VSWmNJMlZ6anFuRmpISEw0VFNjUDBTOVE1ZDhyVzVqWmxJUnNPcmlUSXA2c2wzM3hrdmF4U2pzV1FNdWRNdnBKQVE9PQo=",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.1/AtlasEngine-0.23.1-windows-x64-setup.exe"
     }
   }
 }
