@@ -1,7 +1,7 @@
 {
   "version": "0.23.3",
-  "notes": "Fix local folder import on SQLite, Discord links, runtime metadata cleanup",
-  "pub_date": "2026-04-02T14:39:57Z",
+  "notes": "Apple code-signed and notarized builds. Fix local folder import on SQLite, add Discord links to help surfaces, and move Atlas runtime metadata out of user repos.",
+  "pub_date": "2026-04-02T14:56:06.9742659Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXNydjgvTXpwQ20wSVoyUGhBOHM4N1lrVm9JWjFNZGMwZjBCYSszaXNYYnMxZ20zL2hyek5RMUp1bWxhclJTTnRLOVVrdU9YQkxyNCtJRmxPNnQ2VGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTQwNDMwCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpMZnh6TVhHYVlHOGNpQTQ0TGN6TUpUNkU1Q1A0TWF1UzltY01PcjNudHN2am5rTHZ6UTVja2YwcEYwSitUWlNPOEc5OUJ0enhwZXJGbGJ4OFFYQytEdz09Cg==",
@@ -12,8 +12,8 @@
       "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.3/AtlasEngine_0.23.3_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW5JYW5aR3ZhMUk1LzZpTjVOTGUrcEYvVEIxUThUWjQ1eVBTK2N5VkFKcUFCWVlUdEgrWVJud2FvZFlnZFNablNCdDEzVS9EMTYzOVVNV1VMdXdSWmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTEwNzQyCWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4yX3g2NC1zZXR1cC5leGUKRXE5M0MxMHRyakZFdUtDYUZibzEzVGNaMjlkVjluaytDRUtxK0hDa1FSNmdCTnVjbWM2UitBK2c1cWlQeVFQRFFoc3ZEVTZwNHFZK3g5MXhsTVFPREE9PQo=",
-      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.2/AtlasEngine-0.23.2-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXZod0M3YXd3dzhuUHF5cXB1eWNxUUcyaUtsVW42UmVuU1RBYUlnaEhRMWJORVcveXhLaE5CTktLckxUNDAwVEowTHJhZWNQeGtneVJ5ZW1SZmQzK1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTQxMzc2CWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4zX3g2NC1zZXR1cC5leGUKWDMzR1pKMktCUTlhSjhwb2N1Z1NZVm1MbTlJZzZ0a0tvSmlIUkhJYXU5TVlDYmgzNGpGMGp5Q1c5c1kzR1Z5dFhtMGdhYTZ2cjlnUW5XUEdNZzhmRHc9PQo=",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.3/AtlasEngine-0.23.3-windows-x64-setup.exe"
     }
   }
 }
