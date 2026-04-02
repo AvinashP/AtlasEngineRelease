@@ -1,15 +1,15 @@
 {
-  "version": "0.23.2",
-  "notes": "Apple code-signed and notarized builds. Mobile-friendly admin dashboard, review analytics improvements, device registration on app launch, and bug fixes.",
-  "pub_date": "2026-04-02T06:25:54.4090580Z",
+  "version": "0.23.3",
+  "notes": "Fix local folder import on SQLite, Discord links, runtime metadata cleanup",
+  "pub_date": "2026-04-02T14:39:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWhRYng3UFNhUkNCNjdTaTFKUk95N0s0a1Z2THJXNkI5WXdHTHZyL0x0VFF5cFBVNGFManFObDk3dnF6SFVMWS9vY3N0ZnJlR2ZHaGwzbUpJZitubEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTA5NjMyCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negorMlNVUmFBUitwR0pmY2FxKzJsL2pWbll1SDJFQ0tlYUpDVEdIOEkvRENia2JBZDlIdlkya3orYXI5MnNzRnd3L2wwL0MvQXFqdHBJakZRRDF5OU5DZz09Cg==",
-      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.2/AtlasEngine_0.23.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXNydjgvTXpwQ20wSVoyUGhBOHM4N1lrVm9JWjFNZGMwZjBCYSszaXNYYnMxZ20zL2hyek5RMUp1bWxhclJTTnRLOVVrdU9YQkxyNCtJRmxPNnQ2VGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTQwNDMwCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpMZnh6TVhHYVlHOGNpQTQ0TGN6TUpUNkU1Q1A0TWF1UzltY01PcjNudHN2am5rTHZ6UTVja2YwcEYwSitUWlNPOEc5OUJ0enhwZXJGbGJ4OFFYQytEdz09Cg==",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.3/AtlasEngine_0.23.3_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW9WQXlrVFIwN2pITkY1aGRYUGoyMFJ6R01OUnZYVEJzY0pGanhLcnRwVmEyK0gvZXlUVXoyT2c0VHQxNUtMMmsyb05nbllCZjlMY2VyWVUzbFI3dXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTEwMDMzCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpsTXdBb01ybk9GekxFOW1nNVhZNDVCUitQTW9CWHM2b2JUdm0zT0dldlFiTFBqeCtBK3pWRVAwK3dhbVo1cE4zZXNYTjFzVnRUNVZLTVRTSTE0eklCdz09Cg==",
-      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.2/AtlasEngine_0.23.2_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW1PWGhnUXVwdGM4UzVMdmI0dkVqMEdlcENRWjhyY1prSUYrOVJCdXNEdEdpMWlIbitER2t0Rml4N1VmZWUzQlZNVkpmZnRIcWduSVZ4RnNUZnZvQUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTQwNzIyCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpIOHEvT1Q2b0ZxWThkUS9hdlZxS3BTNjM4M3pKbXJBMW9hQkJUQkVpcFBNU1Z3UjFrRWVnSE1Iemk1Z24wSVpqZkp2R05IZUJlMXoxYTVEcVNCN0pBdz09Cg==",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.3/AtlasEngine_0.23.3_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW5JYW5aR3ZhMUk1LzZpTjVOTGUrcEYvVEIxUThUWjQ1eVBTK2N5VkFKcUFCWVlUdEgrWVJud2FvZFlnZFNablNCdDEzVS9EMTYzOVVNV1VMdXdSWmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTEwNzQyCWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4yX3g2NC1zZXR1cC5leGUKRXE5M0MxMHRyakZFdUtDYUZibzEzVGNaMjlkVjluaytDRUtxK0hDa1FSNmdCTnVjbWM2UitBK2c1cWlQeVFQRFFoc3ZEVTZwNHFZK3g5MXhsTVFPREE9PQo=",
