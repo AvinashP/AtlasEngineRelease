@@ -1,7 +1,7 @@
 {
   "version": "0.23.1",
   "notes": "Apple code-signed builds, mobile-friendly admin dashboard, mouseup focus fix",
-  "pub_date": "2026-04-01T19:51:32Z",
+  "pub_date": "2026-04-02T05:28:14.0932102Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWkwdHNPVFJ0UWJmMFBLMHNrbDJzZlhCcUxrcmtzUUhaaGl4c3VwdW0yZU0rck5reTJzK2FhQWpnU3Q3OUoxaVYzWHBvWi8xY3NYY3ZDVEhyeDdIYXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDcyNTYzCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpRMjRCdkNuWEY3TC9OMTk0em9wYUtsNXhKLzNLZHM5Wjk5cGNDckliT25ES0hlWVZsNmRqMGhySmtZSlJUVThGUXlQOTRjbGlYM21iK3l0SlpUcVpCQT09Cg==",
@@ -10,6 +10,10 @@
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW55MllQR3pJWCtwc2JWZFE3bWhRbWR3QzMwMTNxWmZOMVVBcGQzelREV01aVEJFUGFwbUt5Q2FZSWFoUTNKUmttZUlrYWRQTGxmWkhoUXJ1NTV6N2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDcyODgxCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negp6Rkt0dmtiaUR5ZzgrQ0cyTXU1NlNlN0EzNWRUYkRtUi9SZ0hoeDZyTUdWYlVvUW1PWUlnTUE2QWp5M2hkdEdYRDllTjJzazIzWWg1Uklwd29oYUlEdz09Cg==",
       "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.1/AtlasEngine_0.23.1_x86_64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXBlSGpqZFFFbjllWGZrMjVSUFFsenRMZnorY1dOeWc1aCsyUFN4TDVsaHVqS2N6eTRSYjFCMzRZZEQwZko0Uk1QQ0oxdnhkTmlXQmgzazE4N2llSndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDcxMTAyCWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4xX3g2NC1zZXR1cC5leGUKNmYxS1VaK2l2QzhGTS9zRUlSNzlud1VKMmJjcDlrb0x0N2JSb0lKT0NRNGZIV0hYQWZMaDFuM0p3VHJzUVVmNnNOdFlIL3VySlZxeGFuY0QxMlBBQmc9PQo=",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.1/AtlasEngine-0.23.1-windows-x64-setup.exe"
     }
   }
 }
