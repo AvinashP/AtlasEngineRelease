@@ -1,7 +1,7 @@
 {
   "version": "0.23.2",
-  "notes": "Apple code-signed builds, mobile-friendly admin dashboard, bug fixes",
-  "pub_date": "2026-04-02T06:11:34Z",
+  "notes": "Apple code-signed and notarized builds. Mobile-friendly admin dashboard, review analytics improvements, device registration on app launch, and bug fixes.",
+  "pub_date": "2026-04-02T06:25:54.4090580Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWhRYng3UFNhUkNCNjdTaTFKUk95N0s0a1Z2THJXNkI5WXdHTHZyL0x0VFF5cFBVNGFManFObDk3dnF6SFVMWS9vY3N0ZnJlR2ZHaGwzbUpJZitubEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTA5NjMyCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negorMlNVUmFBUitwR0pmY2FxKzJsL2pWbll1SDJFQ0tlYUpDVEdIOEkvRENia2JBZDlIdlkya3orYXI5MnNzRnd3L2wwL0MvQXFqdHBJakZRRDF5OU5DZz09Cg==",
@@ -12,8 +12,8 @@
       "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.2/AtlasEngine_0.23.2_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMXBlSGpqZFFFbjllWGZrMjVSUFFsenRMZnorY1dOeWc1aCsyUFN4TDVsaHVqS2N6eTRSYjFCMzRZZEQwZko0Uk1QQ0oxdnhkTmlXQmgzazE4N2llSndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDcxMTAyCWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4xX3g2NC1zZXR1cC5leGUKNmYxS1VaK2l2QzhGTS9zRUlSNzlud1VKMmJjcDlrb0x0N2JSb0lKT0NRNGZIV0hYQWZMaDFuM0p3VHJzUVVmNnNOdFlIL3VySlZxeGFuY0QxMlBBQmc9PQo=",
-      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.1/AtlasEngine-0.23.1-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMW5JYW5aR3ZhMUk1LzZpTjVOTGUrcEYvVEIxUThUWjQ1eVBTK2N5VkFKcUFCWVlUdEgrWVJud2FvZFlnZFNablNCdDEzVS9EMTYzOVVNV1VMdXdSWmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTEwNzQyCWZpbGU6QXRsYXNFbmdpbmVfMC4yMy4yX3g2NC1zZXR1cC5leGUKRXE5M0MxMHRyakZFdUtDYUZibzEzVGNaMjlkVjluaytDRUtxK0hDa1FSNmdCTnVjbWM2UitBK2c1cWlQeVFQRFFoc3ZEVTZwNHFZK3g5MXhsTVFPREE9PQo=",
+      "url": "https://github.com/AvinashP/AtlasEngineRelease/releases/download/v0.23.2/AtlasEngine-0.23.2-windows-x64-setup.exe"
     }
   }
 }
