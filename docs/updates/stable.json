@@ -5,15 +5,15 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWhIQ2FtK0FBdkUxNnd6TW0wSGJ5Z3ZjMHdrbC84SjRSUE0vVlk0dG1laG5kWFN4YnR5aUU2cnFBRjFSdEpRNWJjckhybmh5Yy9BcklNajkyTHJkaFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTUxNzQ1CWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negovSmJaaVc5SUdLSGx6UzBNYzJER3dVblJ4eUxLVEpjT1pTbnVUL1hKSmt0NFdMUGhIWFBzdUFRcW5lT3ZPcDR2M3FpV05wa2NhbWZsT0dMRk9XRWZCQT09Cg==",
-      "url": "https://github.com/AtlasAIEngine/atlas-review/releases/download/v0.25.26/AtlasEngine_0.25.26_aarch64.app.tar.gz"
+      "url": "https://github.com/Loomtide/atlas-review/releases/download/v0.25.26/AtlasEngine_0.25.26_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWpqN0ZaN2NzWTF0WXJpL0UzaUdXaExqYkVjZjZPL0NQU1VvRHgyMmF4VFBXbWU5VDhtZWlkRFRvTmNKWlBZVnhEZVZ1eGo1WjJET0pwWVZvN0dMcWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTUyMzgyCWZpbGU6QXRsYXNFbmdpbmUuYXBwLnRhci5negpsMnJ0amhUMjNWVGplaWVwTVlVZmFHb1BUamg0S3ZuZFh6Q3JoK3Ntai81STJvcWtjcC9XbXkwdDQ2SVUxQlRHSFFpVHFITmdUTm1yYm9xSkZTUDFCdz09Cg==",
-      "url": "https://github.com/AtlasAIEngine/atlas-review/releases/download/v0.25.26/AtlasEngine_0.25.26_x86_64.app.tar.gz"
+      "url": "https://github.com/Loomtide/atlas-review/releases/download/v0.25.26/AtlasEngine_0.25.26_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmZmbERFRHFOMWxlblpCMEVmNlhFOFYwd1hIVkRUYlRwTE9LcjBISXRQZGtYMkJ3WHk1cHZGd1U4dUJpWnkyZmU5QkF6WVF4WGd2V3paWWpZZ2hMU3pDVnRVZ052d3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTUyMzMzCWZpbGU6QXRsYXNFbmdpbmVfMC4yNS4yNl94NjQtc2V0dXAuZXhlCm80ZUlYNEhKb0N3WXlONTFuRlJKMlFjUjdkaGkxUk05d3hJMFFGWDNLUG1WYlpGVStGYVBDYUNSWUczemRqSlRBai9xMEIyMXdLc1d5cGFaYm1ZVUNnPT0K",
-      "url": "https://github.com/AtlasAIEngine/atlas-review/releases/download/v0.25.26/AtlasEngine-0.25.26-windows-x64-setup.exe"
+      "url": "https://github.com/Loomtide/atlas-review/releases/download/v0.25.26/AtlasEngine-0.25.26-windows-x64-setup.exe"
     }
   }
 }
